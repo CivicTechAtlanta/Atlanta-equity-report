@@ -6,7 +6,7 @@ Maybe it's not as much an "equity" report first as much as it's a demographic sn
 The desired outcome is that by collecting various data sources combined with a compelling narrative, we can paint a picture of who makes up Atlanta. This will be a useful reference for future projects to see who we should be including while we are building.
 
 ## V1 Requirements
-* Identified a reputable source for information, such as [US Census|https://www.census.gov/quickfacts/fact/table/atlantacitygeorgia/PST045222]
+* Identified a reputable source for information, such as [US Census](https://www.census.gov/quickfacts/fact/table/atlantacitygeorgia/PST045222)
 * Gathered data on the following categories
   * Population
   * Race
