@@ -26,3 +26,8 @@ To avoid burning out by trying to boil the ocean, stay within the following para
   * Internet access
   * Unhoused populations
   * LGBTQ+ populations
+
+# References for inspiration 
+* [model.earth](model.earth/zip)
+* [San Jose Equity Atlas](https://gis.sanjoseca.gov/maps/equityatlas/)
+
